@@ -1,0 +1,35 @@
+.taskform {
+    margin-left:auto;
+    margin-right:auto;
+    width:450px;
+    margin-top:5px;
+    background-color: mediumpurple;
+}
+
+.list-item {
+    background-color: rgb(203, 204, 203);
+    display: flex;
+    justify-content: space-between;
+    margin: 2px 0;
+    padding-bottom: 5px;
+  }
+  
+  .list-item span {
+    color: rgb(38, 39, 54);
+    margin-left: 10px;
+  }
+  
+  .task-btn {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+  }
+  
+  .taskeditform {
+    margin-left:auto;
+    margin-right:auto;
+    width:450px;
+    margin-top:5px;
+    background-color: mediumpurple;
+}

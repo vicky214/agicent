@@ -1,0 +1,20 @@
+.navbar{
+    background-color: mediumaquamarine;
+}
+
+.nav-item{
+    color:white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+.nav-link:hover {
+    color:black;
+}
+.navd{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 500;
+    margin-left: 20px;
+}
